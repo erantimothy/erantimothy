@@ -5,15 +5,15 @@
     </a>
     <p>
         <h2>Hi There 👋</h2>
-        <h4>Trying to change the world one line at a time</h4>
+        <h4>Trying to leave an impact one line at a time</h4>
     </p>
 </div>
 
 [![LinkedIn][linkedin-shield]][linkedin-url] 
 
 ## About Me
-Got a passion for innovation, a thirst for knowledge and dire need to make my life easier than it already is😂.<br>
-#automation#programming#development
+Got a passion for all things technical, a thirst for knowledge and a dire need to make my life easier than it already is😂.<br>
+#automation#programming#development#linux
 
 <br>
 
