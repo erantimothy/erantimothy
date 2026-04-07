@@ -9,7 +9,7 @@
     </p>
 </div>
 
-[![LinkedIn][linkedin-shield]][linkedin-url] 
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 ## About Me
 Got a passion for all things technical, a thirst for knowledge and a dire need to make my life easier than it already is😂.<br>
